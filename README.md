@@ -31,7 +31,8 @@
 
 
 
-
+※ 개인 메모
+- 오큘러스 링크 케이블 구매 사이트: https://m.blog.naver.com/ww31ni/221794948517 
 
 
 ### Reference
