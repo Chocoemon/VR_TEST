@@ -28,7 +28,9 @@
 ![다운로드 (2)](https://user-images.githubusercontent.com/68228162/161007631-58a494db-11eb-4523-94ca-08ed165664aa.jpg)
 
 
-
+# 3. 오큘러스에서 테스트 해보기
+- 안드로이드로 모드 설정하고, 첨부해둔 링크의 Instruction을 따라하면 됨. 
+- (https://developer.oculus.com/documentation/unity/unity-enable-device/)
 
 
 ※ 개인 메모
